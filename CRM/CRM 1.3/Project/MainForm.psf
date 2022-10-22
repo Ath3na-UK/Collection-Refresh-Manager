@@ -1,0 +1,2317 @@
+﻿<File version="2">
+  <FileID>10ad29ff-249e-4248-9235-9620b8477263</FileID>
+  <LastExport>131592797625541339</LastExport>
+  <Preview>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAEqISURBVHhe7b0Hcx1Xuq6Hcvm6yv/AvnX8K+wq
+l10uX9e1fafsc+ake+faM56gCdIEjUZhJI00yjmTIkUlipkiKYqZYAQTCBAEQCQi50QkggEEQJAE
+4+f1LrA5myAY0Vi90Xy6atUG9u5e4em31/f26tXdOTksEIAABCAAAQhAAAIQgAAEIAABCEAAAhCA
+AAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAE
+IAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAA
+AQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEI
+QAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAA
+AhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQ
+gAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAA
+BCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQg
+AAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAAB
+CEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhA
+AAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAAC
+EIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCA
+AAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAE
+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
+AAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAAC
+EIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCA
+AAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAE
+IAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAA
+AQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEI
+QAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAA
+AhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQ
+gAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAA
+BCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQg
+AAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAAB
+CEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhA
+AAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAAC
+EIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCA
+AAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAE
+IAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAA
+AQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEI
+QAACEIAABCAAgdlP4P8HJfAZiEcIibEAAAAASUVORK5CYII=</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="MainForm" children="Controls">
+    <Property name="AcceptButton">
+      <Reference name="btn_Connect" />
+    </Property>
+    <Property name="BackColor">White</Property>
+    <Property name="ClientSize">1214, 790</Property>
+    <Property name="Name">MainForm</Property>
+    <Property name="Text">Collection Refresh Manager 1.3</Property>
+    <Event name="Load">MainForm_Load</Event>
+    <Object type="System.Windows.Forms.SplitContainer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="splitcontainer1" children="Controls">
+      <Property name="Anchor">Top, Bottom, Left, Right</Property>
+      <Property name="Location">12, 88</Property>
+      <Property name="Name">splitcontainer1</Property>
+      <Property name="Panel1">
+        <Property name="Controls">
+          <Item type="System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <Reference name="groupbox1" />
+          </Item>
+        </Property>
+      </Property>
+      <Property name="Panel2">
+        <Property name="Controls">
+          <Item type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <Reference name="btn_nofilter" />
+          </Item>
+          <Item type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <Reference name="btn_filter" />
+          </Item>
+          <Item type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <Reference name="txtbox_Filter" />
+          </Item>
+          <Item type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <Reference name="panel101" />
+          </Item>
+        </Property>
+      </Property>
+      <Property name="Size">1191, 488</Property>
+      <Property name="SplitterDistance">297</Property>
+      <Property name="TabIndex">19</Property>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="btn_stop" children="Controls">
+      <Property name="Anchor">Top, Right</Property>
+      <Property name="BackColor">PaleVioletRed</Property>
+      <Property name="Location">927, 33</Property>
+      <Property name="Name">btn_stop</Property>
+      <Property name="Size">119, 36</Property>
+      <Property name="TabIndex">16</Property>
+      <Property name="Text">Stop</Property>
+      <Property name="UseVisualStyleBackColor">False</Property>
+      <Event name="Click">btn_stop_Click</Event>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="btn_start" children="Controls">
+      <Property name="Anchor">Top, Right</Property>
+      <Property name="BackColor">SpringGreen</Property>
+      <Property name="Location">802, 33</Property>
+      <Property name="Name">btn_start</Property>
+      <Property name="Size">119, 36</Property>
+      <Property name="TabIndex">15</Property>
+      <Property name="Text">Start</Property>
+      <Property name="UseVisualStyleBackColor">False</Property>
+      <Event name="Click">btn_start_Click</Event>
+    </Object>
+    <Object type="SAPIENTypes.ProgressBarOverlay, PowerShell Studio, Version=4.2.98.0, Culture=neutral, PublicKeyToken=null" name="progressbaroverlay1" children="Controls">
+      <Property name="Anchor">Bottom, Left, Right</Property>
+      <Property name="Location">12, 582</Property>
+      <Property name="Name">progressbaroverlay1</Property>
+      <Property name="Size">1191, 29</Property>
+      <Property name="TabIndex">10</Property>
+      <Property name="Visible">False</Property>
+    </Object>
+    <Object type="System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="grpbx_SiteServer" children="Controls">
+      <Property name="Location">12, 12</Property>
+      <Property name="Name">grpbx_SiteServer</Property>
+      <Property name="Size">361, 61</Property>
+      <Property name="TabIndex">6</Property>
+      <Property name="TabStop">False</Property>
+      <Property name="Text">SiteServer</Property>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="btn_Connect" children="Controls">
+        <Property name="Location">275, 21</Property>
+        <Property name="Name">btn_Connect</Property>
+        <Property name="Size">80, 27</Property>
+        <Property name="TabIndex">1</Property>
+        <Property name="Text">Connect</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Event name="Click">btn_Connect_Click</Event>
+      </Object>
+      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="txtbox_SiteServer" children="Controls">
+        <Property name="CharacterCasing">Upper</Property>
+        <Property name="Location">11, 25</Property>
+        <Property name="Name">txtbox_SiteServer</Property>
+        <Property name="Size">254, 20</Property>
+        <Property name="TabIndex">0</Property>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="grpbx_SiteCode" children="Controls">
+      <Property name="Anchor">Top, Right</Property>
+      <Property name="Location">1052, 12</Property>
+      <Property name="Name">grpbx_SiteCode</Property>
+      <Property name="Size">158, 71</Property>
+      <Property name="TabIndex">5</Property>
+      <Property name="TabStop">False</Property>
+      <Property name="Text">Site Code</Property>
+      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="txtbox_SiteCode" children="Controls">
+        <Property name="BackColor">White</Property>
+        <Property name="Location">32, 30</Property>
+        <Property name="Name">txtbox_SiteCode</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="Size">108, 20</Property>
+        <Property name="TabIndex">0</Property>
+        <Event name="TextChanged">txtbox_SiteCode_TextChanged</Event>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Log" children="Controls">
+      <Property name="Anchor">Bottom, Left, Right</Property>
+      <Property name="BackColor">White</Property>
+      <Property name="Location">12, 617</Property>
+      <Property name="Name">Log</Property>
+      <Property name="ReadOnly">True</Property>
+      <Property name="Size">1190, 161</Property>
+      <Property name="TabIndex">2</Property>
+      <Property name="Text">
+      </Property>
+    </Object>
+  </Object>
+  <Object type="System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="radiodbtn_user" children="Controls">
+    <Property name="Location">127, 19</Property>
+    <Property name="Name">radiodbtn_user</Property>
+    <Property name="Size">62, 24</Property>
+    <Property name="TabIndex">1</Property>
+    <Property name="Text">User</Property>
+    <Property name="UseVisualStyleBackColor">True</Property>
+    <Event name="CheckedChanged">radiodbtn_user_CheckedChanged</Event>
+  </Object>
+  <Object type="System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="radiodbtn_device" children="Controls">
+    <Property name="Checked">True</Property>
+    <Property name="Location">50, 19</Property>
+    <Property name="Name">radiodbtn_device</Property>
+    <Property name="Size">71, 24</Property>
+    <Property name="TabIndex">0</Property>
+    <Property name="TabStop">True</Property>
+    <Property name="Text">Device</Property>
+    <Property name="UseVisualStyleBackColor">True</Property>
+    <Event name="CheckedChanged">radiodbtn_device_CheckedChanged</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="contextmenu" children="Controls">
+    <Property name="Items">
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="SelectDeselect" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="addRemoveIncrementalUpdatesToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="scheduleAFullUpdateOnThisCollectionToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="SetRefreshScheduleToolStripMenuItem" />
+      </Item>
+    </Property>
+    <Property name="Name">contextmenu</Property>
+    <Property name="Size">296, 70</Property>
+    <Event name="Opening">contextmenu_Opening</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="SelectDeselect">
+    <Property name="DropDownItems">
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="selectToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="deselectToolStripMenuItem" />
+      </Item>
+    </Property>
+    <Property name="Name">SelectDeselect</Property>
+    <Property name="Size">295, 22</Property>
+    <Property name="Text">Select \ Deselect Highlighted</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="selectToolStripMenuItem">
+    <Property name="Name">selectToolStripMenuItem</Property>
+    <Property name="Size">105, 22</Property>
+    <Property name="Text">Select</Property>
+    <Event name="Click">selectToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="deselectToolStripMenuItem">
+    <Property name="Name">deselectToolStripMenuItem</Property>
+    <Property name="Size">152, 22</Property>
+    <Property name="Text">Deselect</Property>
+    <Event name="Click">deselectToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="addRemoveIncrementalUpdatesToolStripMenuItem">
+    <Property name="DropDownItems">
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="addIncrementalUpdatesToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="removeIncrementalUpdatesToolStripMenuItem" />
+      </Item>
+    </Property>
+    <Property name="Name">addRemoveIncrementalUpdatesToolStripMenuItem</Property>
+    <Property name="Size">295, 22</Property>
+    <Property name="Text">Add \ Remove Incremental Updates</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="addIncrementalUpdatesToolStripMenuItem">
+    <Property name="Name">addIncrementalUpdatesToolStripMenuItem</Property>
+    <Property name="Size">96, 22</Property>
+    <Property name="Text">Add</Property>
+    <Event name="Click">addIncrementalUpdatesToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="removeIncrementalUpdatesToolStripMenuItem">
+    <Property name="Name">removeIncrementalUpdatesToolStripMenuItem</Property>
+    <Property name="Size">152, 22</Property>
+    <Property name="Text">Remove</Property>
+    <Event name="Click">removeIncrementalUpdatesToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="contextmenutree" children="Controls">
+    <Property name="Items">
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="SelectAllNodes" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="DeSelectAllNodes" />
+      </Item>
+    </Property>
+    <Property name="Name">contextmenustrip1</Property>
+    <Property name="Size">116, 26</Property>
+    <Event name="Opening">contextmenutree_Opening</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="SelectAllNodes">
+    <Property name="Name">SelectAllNodes</Property>
+    <Property name="ShowShortcutKeys">False</Property>
+    <Property name="Size">115, 22</Property>
+    <Property name="Text">Select All</Property>
+    <Event name="Click">SelectAllNodes_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="DeSelectAllNodes">
+    <Property name="Name">DeSelectAllNodes</Property>
+    <Property name="ShowShortcutKeys">False</Property>
+    <Property name="Size">128, 22</Property>
+    <Property name="Text">Deselect All</Property>
+    <Event name="Click">DeSelectAllNodes_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="SetRefreshScheduleToolStripMenuItem">
+    <Property name="Name">SetRefreshScheduleToolStripMenuItem</Property>
+    <Property name="Size">295, 22</Property>
+    <Property name="Text">Set Refresh Schedule</Property>
+    <Event name="Click">SetRefreshScheduleToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="groupbox1" children="Controls">
+    <Property name="Anchor">Top, Bottom, Left, Right</Property>
+    <Property name="Location">0, 0</Property>
+    <Property name="Name">groupbox1</Property>
+    <Property name="Size">297, 488</Property>
+    <Property name="TabIndex">13</Property>
+    <Property name="TabStop">False</Property>
+    <Property name="Text">Collection Folder Structure</Property>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="btn_search" children="Controls">
+      <Property name="Enabled">False</Property>
+      <Property name="Location">186, 19</Property>
+      <Property name="Name">btn_search</Property>
+      <Property name="Size">70, 23</Property>
+      <Property name="TabIndex">2</Property>
+      <Property name="Text">Search</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">btn_search_Click</Event>
+    </Object>
+    <Object type="System.Windows.Forms.TreeView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="treeview" children="Controls">
+      <Property name="Anchor">Top, Bottom, Left, Right</Property>
+      <Property name="ContextMenuStrip">
+        <Reference name="contextmenutree" />
+      </Property>
+      <Property name="Location">3, 49</Property>
+      <Property name="Name">treeview</Property>
+      <Property name="Size">291, 409</Property>
+      <Property name="TabIndex">0</Property>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="btn_ImportCollections" children="Controls">
+      <Property name="Dock">Bottom</Property>
+      <Property name="Location">3, 458</Property>
+      <Property name="Name">btn_ImportCollections</Property>
+      <Property name="Size">291, 27</Property>
+      <Property name="TabIndex">1</Property>
+      <Property name="Text">Import Collections</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">btn_ImportCollections_Click</Event>
+    </Object>
+    <Object type="System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="radiodbtn_user" reference="radiodbtn_user" />
+    <Object type="System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="radiodbtn_device" reference="radiodbtn_device" />
+  </Object>
+  <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel101" children="Controls">
+    <Property name="Anchor">Top, Bottom, Left, Right</Property>
+    <Property name="Location">0, 36</Property>
+    <Property name="Name">panel101</Property>
+    <Property name="Size">890, 452</Property>
+    <Property name="TabIndex">1</Property>
+    <Object type="System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="checkbox0" children="Controls">
+      <Property name="BackColor">Transparent</Property>
+      <Property name="CheckAlign">MiddleCenter</Property>
+      <Property name="Location">44, 3</Property>
+      <Property name="Name">checkbox0</Property>
+      <Property name="Size">18, 18</Property>
+      <Property name="TabIndex">14</Property>
+      <Property name="TextAlign">MiddleCenter</Property>
+      <Property name="UseVisualStyleBackColor">False</Property>
+      <Property name="Visible">False</Property>
+      <Event name="CheckedChanged">checkbox0_CheckedChanged</Event>
+    </Object>
+    <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="datagridview1" children="Controls">
+      <Property name="AllowUserToAddRows">False</Property>
+      <Property name="AllowUserToDeleteRows">False</Property>
+      <Property name="Anchor">Top, Bottom, Left, Right</Property>
+      <Property name="AutoSizeColumnsMode">Fill</Property>
+      <Property name="AutoSizeRowsMode">DisplayedCells</Property>
+      <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
+      <Property name="ContextMenuStrip">
+        <Reference name="contextmenu" />
+      </Property>
+      <Property name="Location">0, 0</Property>
+      <Property name="Name">datagridview1</Property>
+      <Property name="RowHeadersVisible">False</Property>
+      <Property name="SelectionMode">FullRowSelect</Property>
+      <Property name="Size">890, 452</Property>
+      <Property name="TabIndex">12</Property>
+      <Event name="CellPainting">datagridview1_CellPainting</Event>
+      <Event name="CurrentCellDirtyStateChanged">datagridview1_CurrentCellDirtyStateChanged</Event>
+      <Event name="DataBindingComplete">datagridview1_DataBindingComplete</Event>
+    </Object>
+  </Object>
+  <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="txtbox_Filter" children="Controls">
+    <Property name="Location">3, 3</Property>
+    <Property name="Name">txtbox_Filter</Property>
+    <Property name="Size">240, 20</Property>
+    <Property name="TabIndex">8</Property>
+  </Object>
+  <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="btn_filter" children="Controls">
+    <Property name="Location">249, 3</Property>
+    <Property name="Name">btn_filter</Property>
+    <Property name="Size">80, 27</Property>
+    <Property name="TabIndex">9</Property>
+    <Property name="Text">Filter</Property>
+    <Property name="UseVisualStyleBackColor">True</Property>
+    <Event name="Click">btn_filter_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="btn_nofilter" children="Controls">
+    <Property name="Location">335, 3</Property>
+    <Property name="Name">btn_nofilter</Property>
+    <Property name="Size">80, 27</Property>
+    <Property name="TabIndex">10</Property>
+    <Property name="Text">CLR Filter</Property>
+    <Property name="UseVisualStyleBackColor">True</Property>
+    <Event name="Click">btn_nofilter_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="scheduleAFullUpdateOnThisCollectionToolStripMenuItem">
+    <Property name="DropDownItems">
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="enablescheduleToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="disablescheduleToolStripMenuItem" />
+      </Item>
+    </Property>
+    <Property name="Name">scheduleAFullUpdateOnThisCollectionToolStripMenuItem</Property>
+    <Property name="Size">295, 22</Property>
+    <Property name="Text">Schedule a Full Update On This Collection</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="enablescheduleToolStripMenuItem">
+    <Property name="Name">enablescheduleToolStripMenuItem</Property>
+    <Property name="Size">109, 22</Property>
+    <Property name="Text">Enable</Property>
+    <Event name="Click">enablescheduleToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="disablescheduleToolStripMenuItem">
+    <Property name="Name">disablescheduleToolStripMenuItem</Property>
+    <Property name="Size">152, 22</Property>
+    <Property name="Text">Disable</Property>
+    <Event name="Click">disablescheduleToolStripMenuItem_Click</Event>
+  </Object>
+  <Code><![CDATA[
+
+$MainForm_Load={
+	#TODO: Initialize Form Controls here
+	$script:RKCMCollectionType = 'Device'
+}
+
+function Get-CMSiteConnection
+{
+	[CmdletBinding()]
+	param (
+		[parameter(Mandatory = $true)]
+		[ValidateNotNullOrEmpty()]
+		[string]$SiteServer
+	)
+	# Determine Site Code
+	try
+	{
+		$SiteCodeObjects = Get-WmiObject -Namespace "root\SMS" -Class SMS_ProviderLocation -ComputerName $SiteServer -ErrorAction Stop
+		foreach ($SiteCodeObject in $SiteCodeObjects)
+		{
+			if ($SiteCodeObject.ProviderForLocalSite -eq $true)
+			{
+				$SiteCode = $SiteCodeObject.SiteCode
+				$txtbox_SiteCode.Text = $SiteCode
+				Append-RichtextboxStatus -Component 'Get SiteCode' -Message "Found Site Code $SiteCode"
+				$txtbox_SiteServer.ReadOnly = $true
+				$btn_search.Enabled = $true
+			}
+		}
+	}
+	catch [System.UnauthorizedAccessException] {
+		Display-MsgBox -Title "Error" -Message "Access denied, please check if you have access rights to your siteserver" -ButtonSetup 0
+		Append-RichtextboxStatus -Component $component -Message "Access denied" -MessageColor 'red'; return
+	}
+	catch [System.Exception] {
+		Display-MsgBox -Title "Error" -Message "Unable to determine Site Code" -ButtonSetup 0
+		Append-RichtextboxStatus -Component $component -Message "Unable to determine Site Code" -MessageColor 'red'; return
+	}
+	# import ConfigurationManager Module
+	try
+	{
+		$CMModulePath = Join-Path -Path (Split-Path -Path "${Env:SMS_ADMIN_UI_PATH}" -ErrorAction Stop) -ChildPath "ConfigurationManager.psd1"
+		Import-Module $CMModulePath -ErrorAction Stop
+		Set-Location -Path "$Sitecode`:"
+		Append-RichtextboxStatus -Component 'Get SiteCode' -Message "Successfully set location to Configuration Manager drive."
+	}
+	catch [System.Exception] {
+		Display-MsgBox -Title "Error" -Message "Unable to load ConfigurationManager Module, please install Admin Console" -ButtonSetup 0
+		Append-RichtextboxStatus -Component $component -Message "Unable to load ConfigurationManager Module, please install Admin Console" -MessageColor 'red'; return
+	}
+	
+	$Global:SiteCode = $SiteCode
+	$global:SiteServer = $SiteServer
+	return $SiteCode
+	return $SiteServer
+}
+function Get-IncrementalStatus
+{
+    <#
+	    .SYNOPSIS
+	    Looks at the refreshtype value and returns if incremental updates or enabled or disabled.
+	    .DESCRIPTION
+	    Looks at the refreshtype value and returns if incremental updates or enabled or disabled.
+	    .EXAMPLE
+	    Get-IncrementalStatus -RefreshType $RefreshType
+	    .EXAMPLE
+        Get-IncrementalStatus $RefreshType
+        .Notes
+        Possible Enumeration Values: 
+        MANUAL(1)
+        PERIODIC(2)
+        CONSTANT_UPDATE(4)
+        BOTH(6)
+	    #>
+	
+	[CmdletBinding()]
+	param
+	(
+		[Parameter(Mandatory = $true, Position = 0)]
+		[int][ValidateNotNullOrEmpty()]
+		$RefreshType
+	)
+	switch ($RefreshType)
+	{
+		"1" { $RefreshStatus = $false }
+		"2" { $RefreshStatus = $false }
+		"4" { $RefreshStatus = $true }
+		"6" { $RefreshStatus = $true }
+	}
+	return [bool]$RefreshStatus
+}
+function Get-CheckedNodes 
+{
+<#
+	.SYNOPSIS
+		This function collects a list of checked nodes in a TreeView
+
+	.DESCRIPTION
+		This function collects a list of checked nodes in a TreeView
+
+	.PARAMETER  $NodeCollection
+		The collection of nodes to search
+
+	.PARAMETER  $CheckedNodes
+		The ArrayList that will contain the all the checked items
+	
+	.EXAMPLE
+		$CheckedNodes = New-Object System.Collections.ArrayList
+		Get-CheckedNodes $treeview.Nodes $CheckedNodes
+		foreach($node in $CheckedNodes)
+		{	
+			Write-Host $node.Text
+		}
+#>
+	param(
+	[ValidateNotNull()]
+	[System.Windows.Forms.TreeNodeCollection] $NodeCollection,
+	[ValidateNotNull()]
+	[System.Collections.ArrayList]$CheckedNodes)
+	
+	foreach($Node in $NodeCollection)
+	{
+		if($Node.Checked)
+		{
+			[void]$CheckedNodes.Add($Node)
+		}
+		Get-CheckedNodes $Node.Nodes $CheckedNodes
+	}
+}
+Function Display-MsgBox
+{
+	# -Style:
+	# 16 Error
+	# 32 Question
+	# 48 Exclamation
+	# 64 Information
+	
+	# -ButtonSetup
+	# 0 OK
+	# 1 OKCancel
+	# 2 AbortRetryIgnore
+	# 3 YesNoCancel
+	# 4 YesNo
+	# 5 RetryCancel
+	
+	param (
+		[Parameter(Mandatory = $true, Position = 1)]
+		$Message,
+		[Parameter(Mandatory = $true, Position = 2)]
+		$Title,
+		[Parameter(Mandatory = $false, Position = 3)]
+		$Style = 64,
+		[Parameter(Mandatory = $false, Position = 4)]
+		$ButtonSetup = 0
+	)
+	[System.Windows.Forms.MessageBox]::Show($Message, $Title, $ButtonSetup, $Style)
+	
+}
+function Append-RichtextboxStatus
+{
+	PARAM (
+		[Parameter(Mandatory = $true)]
+		[string]$Message,
+		[string]$MessageColor = "Black",
+		[string]$DateTimeColor = "Gray",
+		[string]$Component,
+		[string]$ComponenetColor = "DarkCyan",
+		[String]$ComputerNameColor = "Blue")
+	
+	$SortableTime = get-date -Format "yyyy-MM-dd HH:mm:ss"
+	$Log.SelectionColor = $DateTimeColor
+	$Log.AppendText("[$SortableTime] ")
+	
+	IF ($PSBoundParameters['ComputerName'])
+	{
+		$Log.SelectionColor = $ComputerNameColor
+		$Log.AppendText(("$ComputerName ").ToUpper())
+	}
+	
+	IF ($PSBoundParameters['Component'])
+	{
+		$Log.SelectionColor = $ComponenetColor
+		$Log.AppendText("$Component ")
+	}
+	
+	$Log.SelectionColor = $MessageColor
+	$Log.AppendText("$Message`r")
+	$Log.Refresh()
+	$Log.ScrollToCaret()
+	
+	Write-Verbose -Message "$SortableTime $Message"
+}
+function Get-SubNode
+{
+	param (
+		[parameter(Mandatory = $true)]
+		[int]$ParentContainerNodeID,
+		[parameter(Mandatory = $true)]
+		$ParentNode
+	)
+	$SubNodes = Get-WmiObject -Namespace "root\SMS\Site_$($SiteCode)" -Class SMS_ObjectContainerNode -ComputerName $SiteServer -Filter "ParentContainerNodeID = $($ParentContainerNodeID) AND ObjectType = $RKObjectType"
+	if ($SubNodes -ne $null)
+	{
+		foreach ($SubNode in ($SubNodes | Sort-Object -Property Name))
+		{
+			$Node = $ParentNode.Nodes.Add($SubNode.ContainerNodeID, $SubNode.Name)
+			Append-RichtextboxStatus -Component 'Retrieving Folder Structure' -Message "Found sub folder $($SubNode.Name)"
+			Get-SubNode -ParentContainerNodeID $SubNode.ContainerNodeID -ParentNode $Node
+		}
+	}
+}
+
+function Enable-ChildNode($Node)
+{
+	
+	foreach ($n in $Node.nodes)
+	{
+		#$CheckStatus = $Node.checked		
+		if ($n.checked -eq $true)
+		{
+			Append-RichtextboxStatus -Component 'Tree Control' -Message "$($n.Text) already enabled."
+		}
+		else
+		{
+			$n.checked = $true
+			Append-RichtextboxStatus -Component 'Tree Control' -Message "$($n.Text) enabled."
+		}
+		Enable-ChildNode($n)
+	}
+}
+
+function Disable-ChildNode($Node)
+{
+	
+	foreach ($n in $Node.nodes)
+	{
+		#$CheckStatus = $Node.checked		
+		if ($n.checked -eq $false)
+		{
+			Append-RichtextboxStatus -Component 'Tree Control' -Message "$($n.Text) already disabled."
+		}
+		else
+		{
+			$n.checked = $false
+			Append-RichtextboxStatus -Component 'Tree Control' -Message "$($n.Text) disabled."
+		}
+		Disable-ChildNode($n)
+	}
+}
+Function Get-CMFolderStructure
+{
+    <#
+    .SYNOPSIS
+    Retrives the folder structure for Device and User Collections in Configuration Manager.
+    .DESCRIPTION
+    Retrives the folder structure for Device and User Collections in Configuration Manager.
+    .EXAMPLE
+    Get-CMFolderStructure -SiteCode 'PS1' -SiteServer 'CM01.Corp.Viamonstra.Com' -RKCMCollectionType 'Devce'
+    .EXAMPLE
+	Get-CMFolderStructure 'PS1' 'CM01.Corp.Viamonstra.Com' 'Devce'
+    #>
+	[CmdletBinding()]
+	param
+	(
+		[Parameter(Mandatory = $true, Position = 0)]
+		[System.String][ValidateNotNullOrEmpty()]
+		$SiteServer,
+		[Parameter(Mandatory = $true, Position = 1)]
+		[System.String][ValidateNotNullOrEmpty()]
+		$SiteCode,
+		[Parameter(Mandatory = $true, Position = 2)]
+		[System.String][ValidateSet('Device','User')]
+		$RKCMCollectionType
+	)
+	
+	switch ($RKCMCollectionType)
+	{
+		'Device' {
+			$RKObjectType = '5000'
+		}
+		
+		'User' {
+			$RKObjectType = '5001'
+		}
+	}
+	
+	Append-RichtextboxStatus -Component 'Retrieving Folder Structure' -Message 'Searching'
+	$TreeView.Nodes.Clear()
+	$treeview.CheckBoxes = $true
+	# Create the root node
+	$RootNode = $TreeView.Nodes.Add("Root")
+	# Determine top level Container Node items for Device Collections
+	$RootNodes = Get-WmiObject -Namespace "root\SMS\Site_$($SiteCode)" -Class SMS_ObjectContainerNode -ComputerName $SiteServer -Filter "ParentContainerNodeID = 0 AND ObjectType = $RKObjectType"
+	foreach ($Node in ($RootNodes | Sort-Object -Property Name))
+	{
+		$CurrentNode = $RootNode.Nodes.Add($Node.ContainerNodeID, $Node.Name)
+		Append-RichtextboxStatus -Component 'Retrieving Folder Structure' -Message "Found $($Node.Name)"
+		Get-SubNode -ParentContainerNodeID $Node.ContainerNodeID -ParentNode $CurrentNode
+	}
+	$treeview.ExpandAll()
+	Append-RichtextboxStatus -Component 'Retrieving Folder Structure' -Message 'Done!'
+}
+
+function Get-CMFolderObjects
+{
+	    <#
+	        .SYNOPSIS
+	        Helps return devices collectiosn in a folder.
+	        .DESCRIPTION
+	        This function retrives all the device collections within a folder within Configuration Manager
+	        .EXAMPLE
+	        Get-CMFolderObjects -SiteCode 'PS1' -SiteServer 'CM01.Corp.Viamonstra.Com' -ContainerID '16777217'
+	        .EXAMPLE
+            Get-CMFolderObjects PS1 CM01.Corp.Viamonstra.Com -ContainerID 16777217
+            .EXAMPLE
+            Return all device collections in the root folder
+            Get-CMFolderObject -SiteCode 'PS1' -SiteServer 'CM01'
+            .EXAMPLE
+            Return all device collections in the root folder
+            Get-CMFolderObject -SiteCode 'PS1' -SiteServer 'CM01' -ContainerID '0'
+	    #>
+	[CmdletBinding()]
+	param
+	(
+		[Parameter(Mandatory = $true, Position = 0)]
+		[System.String][ValidateNotNullOrEmpty()]
+		[ValidateLength(3, 3)]
+		$SiteCode,
+		[Parameter(Mandatory = $true, Position = 1)]
+		[System.String][ValidateNotNullOrEmpty()]
+		$SiteServer,
+		[Parameter(Mandatory = $true, Position = 2)]
+		[int][ValidateNotNullOrEmpty()]
+		$ContainerID,
+		[Parameter(Mandatory = $true, Position = 3)]
+		[System.String][ValidateSet('Device', 'User')]
+		$RKCMCollectionType
+	)
+	
+	switch ($RKCMCollectionType)
+	{
+		'Device' {
+			$RKObjectType = '5000'
+			$RKCollectionType = '2'
+		}
+		
+		'User' {
+			$RKObjectType = '5001'
+			$RKCollectionType = '1'
+		}
+	}
+	
+	switch ($ContainerID)
+	{
+		"0" {
+			$Query = "select * from SMS_Collection where CollectionType=$RKCollectionType and NOT CollectionID is in
+                (select InstanceKey from SMS_ObjectContainerItem where ObjectType=$RKObjectType)"
+		}
+		
+		default
+		{
+			$Query = "select * from SMS_Collection where CollectionID is in
+                (select InstanceKey from SMS_ObjectContainerItem where ObjectType=$RKObjectType
+                and ContainerNodeID='$ContainerID') and CollectionType=$RKCollectionType"
+		}
+	}
+	Get-WmiObject -ComputerName $SiteServer -Namespace "Root\SMS\Site_$SiteCode" -Query $Query
+}
+
+
+function Get-RKCollections
+{
+	$CheckedNodes = New-Object System.Collections.ArrayList
+	$Component = 'Import Collections'
+	$Select = $false
+	$DGVArray = @()
+	Get-CheckedNodes $treeview.Nodes $CheckedNodes
+	foreach ($node in $CheckedNodes)
+	{
+		$CollCount = 0
+		$CMFolderObjectsCount = 0
+		$CMFolderObjects = $null
+		$CMFolderObjects = @(Get-CMFolderObjects -SiteCode $SiteCode -SiteServer $SiteServer -ContainerID $node.Name -RKCMCollectionType $RKCMCollectionType)
+		$CMFolderObjectsCount = $CMFolderObjects.Count
+		$FolderText = $node.Text
+		
+		$progressbaroverlay1.Maximum = $CMFolderObjectsCount
+		$progressbaroverlay1.Step = 1
+		$progressbaroverlay1.Value = 0
+		
+		Append-RichtextboxStatus -Message "Importing $CMFolderObjectsCount collection/s from folder $FolderText" -Component $Component
+		foreach ($Collection in $CMFolderObjects)
+		{
+			$CollectionRefesh = Get-CollectionRefresh -Collection $Collection
+			$CollCount++
+			$progressbaroverlay1.PerformStep()
+			$Refreshinfo = Get-IncrementalStatus -RefreshType $Collection.RefreshType
+			$Object = [PSCustomObject]@{
+				Select = $Select
+				'Collection' = $Collection.Name
+				Folder = $FolderText
+				Incremental = $Refreshinfo
+				'Scheduled' = Get-CMScheduleStatus -RKCMStatus $Collection.RefreshType
+				'Refresh Schedule' = $CollectionRefesh.RefreshDate
+				'Start Time' = [string]$CollectionRefesh.RefreshTime
+				'New Schedule String' = '0'
+			}
+			$DGVArray += $Object
+			$progressbaroverlay1.TextOverlay = "Adding Collection $($CollCount) / $($CMFolderObjectsCount)"
+		}
+	}
+	$datagridview1.DataSource = ConvertTo-DataTable $DGVArray
+	$progressbaroverlay1.TextOverlay = 'Collections Imported!'
+	$datagridview1.Columns[1].ReadOnly = $true
+	$datagridview1.Columns[2].ReadOnly = $true
+	$datagridview1.Columns[3].ReadOnly = $true
+	$datagridview1.Columns[4].ReadOnly = $true
+	$datagridview1.Columns[5].ReadOnly = $true
+	$datagridview1.Columns[6].ReadOnly = $true
+	$datagridview1.Columns["Incremental"].SortMode = 'Automatic'
+	$datagridview1.Columns["Scheduled"].SortMode = 'Automatic'
+	$datagridview1.Columns[0].Width = 70
+	$datagridview1.Columns[1].Width = 300
+	$datagridview1.Columns[2].Width = 120
+	$datagridview1.Columns[3].Width = 80
+	$datagridview1.Columns[4].Width = 80
+	$datagridview1.Columns[5].Width = 200
+	$datagridview1.Columns[6].Width = 110
+}
+
+Function Convert-DayNumbersToDayName
+{
+	[CmdletBinding()]
+	Param (
+		[String]$DayNumber
+	)
+	
+	Switch ($DayNumber)
+	{
+		"1" { $DayName = "Sunday" }
+		"2" { $DayName = "Monday" }
+		"3" { $DayName = "TuesDay" }
+		"4" { $DayName = "WednesDay" }
+		"5" { $DayName = "ThursDay" }
+		"6" { $DayName = "FriDay" }
+		"7" { $DayName = "Saturday" }
+		
+	}
+	
+	Return $DayName
+}
+Function Convert-MonthToNumbers
+{
+	[CmdletBinding()]
+	Param (
+		[String]$MonthNumber
+	)
+	
+	Switch ($MonthNumber)
+	{
+		"1" { $MonthName = "January" }
+		"2" { $MonthName = "Feburary" }
+		"3" { $MonthName = "March" }
+		"4" { $MonthName = "April" }
+		"5" { $MonthName = "May" }
+		"6" { $MonthName = "June" }
+		"7" { $MonthName = "July" }
+		"8" { $MonthName = "August" }
+		"9" { $MonthName = "September" }
+		"10" { $MonthName = "October" }
+		"11" { $MonthName = "November" }
+		"12" { $MonthName = "December" }
+	}
+	
+	Return $MonthName
+}
+Function Convert-WeekOrderNumber
+{
+	[CmdletBinding()]
+	Param (
+		[String]$WeekOrderNumber
+	)
+	
+	Switch ($WeekOrderNumber)
+	{
+		0 { $WeekOrderName = "Last" }
+		1 { $WeekOrderName = "First" }
+		2 { $WeekOrderName = "Second" }
+		3 { $WeekOrderName = "Third" }
+		4 { $WeekOrderName = "Fourth" }
+		
+	}
+	
+	Return $WeekOrderName
+}
+
+function Get-CollectionRefresh
+{
+    <#
+        .SYNOPSIS
+        Retrieves refreshdate and time for a collection.
+        .DESCRIPTION
+        This function retrives the collection refreshdate and time for a given collection
+        .EXAMPLE
+        Get-CollectionRefresh -Collection $Collection
+        .EXAMPLE
+        Get-CollectionRefresh $Collection
+    #>
+	[CmdletBinding()]
+	param
+	(
+		[Parameter(Mandatory = $true, Position = 0)]
+		[System.Array][ValidateNotNullOrEmpty()]
+		$Collection
+	)		
+	$Collection.__PATH
+	$Collection = [wmi]$Collection.__path
+	
+	$CollectionRefresh = $null
+	$CollectionRefresh = @()
+	$Object = New-Object -Type System.Object
+	
+	if ($Collection.RefreshType -eq 1)
+	{
+		
+		$Object | Add-Member -MemberType NoteProperty -Name "RefreshDate" -Value ""
+		$Object | Add-Member -MemberType NoteProperty -Name "RefreshTime" -Value ""
+	}
+	
+	Else
+	{
+		switch ($Collection.RefreshSchedule.__CLASS)
+		{
+			"SMS_ST_RecurWeekly" {
+				$Object | Add-Member -MemberType NoteProperty -Name "RefreshDate" -Value ("Occures every: $($Collection.RefreshSchedule.ForNumberOfWeeks) weeks on " + (Convert-DayNumbersToDayName -DayNumber $Collection.RefreshSchedule.Day))
+				$Object | Add-Member -MemberType NoteProperty -Name "RefreshTime" -Value ([System.Management.ManagementDateTimeConverter]::ToDateTime($Collection.RefreshSchedule.StartTime))
+			}
+			
+			"SMS_ST_RecurInterval" {
+				
+				if ($Collection.RefreshSchedule.DaySpan -ne 0)
+				{
+					$text = "Occures every $($Collection.RefreshSchedule.DaySpan) days"
+				}
+				if ($Collection.RefreshSchedule.HourSpan -ne 0)
+				{
+					$text = "Occures every $($Collection.RefreshSchedule.HourSpan) hours"
+				}
+				if ($Collection.RefreshSchedule.MinuteSpan -ne 0)
+				{
+					$text = "Occures every $($Collection.RefreshSchedule.MinuteSpan) minutes"
+				}
+				
+				$Object | Add-Member -MemberType NoteProperty -Name "RefreshDate" -Value $text
+				$Object | Add-Member -MemberType NoteProperty -Name "RefreshTime" -Value ([System.Management.ManagementDateTimeConverter]::ToDateTime($Collection.RefreshSchedule.StartTime))
+			}
+			
+			"SMS_ST_RecurMonthlyByDate" {
+				
+				If ($Collection.RefreshSchedule.MonthDay -eq 0)
+				{
+					
+					$Object | Add-Member -MemberType NoteProperty -Name "RefreshDate" -Value "Occures the last day of every $($Collection.RefreshSchedule.ForNumberOfMonths) months"
+					$Object | Add-Member -MemberType NoteProperty -Name "RefreshTime" -Value ([System.Management.ManagementDateTimeConverter]::ToDateTime($Collection.RefreshSchedule.StartTime))
+				}
+				Else
+				{
+					
+					$Object | Add-Member -MemberType NoteProperty -Name "RefreshDate" -Value "Occures day $($Collection.RefreshSchedule.MonthDay) of every $($Collection.RefreshSchedule.ForNumberOfMonths) months"
+					$Object | Add-Member -MemberType NoteProperty -Name "RefreshTime" -Value ([System.Management.ManagementDateTimeConverter]::ToDateTime($Collection.RefreshSchedule.StartTime))
+				}
+			}
+			
+			"SMS_ST_RecurMonthlyByWeekday" {
+				$Object | Add-Member -MemberType NoteProperty -Name "RefreshDate" -Value ("Occures the " + (Convert-WeekOrderNumber -weekordernumber $Collection.RefreshSchedule.WeekOrder) + " " + (Convert-DayNumbersToDayName -DayNumber $Collection.RefreshSchedule.Day) + " of every " + (Convert-MonthToNumbers -MonthNumber $Collection.RefreshSchedule.ForNumberOfMonths))
+				$Object | Add-Member -MemberType NoteProperty -Name "RefreshTime" -Value ([System.Management.ManagementDateTimeConverter]::ToDateTime($Collection.RefreshSchedule.StartTime))
+			}
+			
+			"SMS_ST_NonRecurring" {
+				$Object | Add-Member -MemberType NoteProperty -Name "RefreshDate" -Value "No Recurrence. The Scheduled event Occures once at the specific time"
+				$Object | Add-Member -MemberType NoteProperty -Name "RefreshTime" -Value ([System.Management.ManagementDateTimeConverter]::ToDateTime($Collection.RefreshSchedule.StartTime))
+			}
+		}
+	}
+	
+	$CollectionRefresh += $Object
+	$CollectionRefresh
+}
+
+function Get-CMScheduleStatus
+{
+    <#
+	    .SYNOPSIS
+	    converts the schedule status from [int] to [bool]
+	    .DESCRIPTION
+	    converts the schedule status from [int] to [bool]
+	    .EXAMPLE
+	    Get-CMScheduleStatus -RKCMStatus 4
+	    .EXAMPLE
+        Get-CMScheduleStatus 1
+        .Notes
+        Possible Enumeration Values: 
+        1 = Manual Update only
+        2 = Scheduled Updates only
+        4 = Incremental Updates Only 
+        6 = Incremental and Scheduled Updates  
+	    #>
+	
+	[CmdletBinding()]
+	param
+	(
+		[Parameter(Mandatory = $true, Position = 0)]
+		[int][ValidateNotNullOrEmpty()]
+		[ValidateSet(1, 2, 4, 6)]
+		$RKCMStatus
+	)
+	switch ($RKCMStatus)
+	{
+		1 { $CollectionTypeReturn = $false }
+		2 { $CollectionTypeReturn = $true }
+		4 { $CollectionTypeReturn = $false }
+		6 { $CollectionTypeReturn = $true }
+	}
+	return [bool]$CollectionTypeReturn
+}
+
+$btn_ImportCollections_Click={
+	#TODO: Place custom script here
+	$btn_ImportCollections.Enabled = $false
+	$progressbaroverlay1.Visible = $true
+	Get-RKCollections
+	if ($datagridview1.rows.Count -eq 0) {
+		$checkbox0.Visible = $false
+		$btn_start.Enabled = $false
+		$btn_stop.Enabled = $false
+	} else {
+		$checkbox0.Visible = $true
+		$btn_start.Enabled = $true
+		$btn_stop.Enabled = $true
+	}
+	$btn_ImportCollections.Enabled = $true
+}
+
+$btn_Connect_Click={
+	#TODO: Place custom script here
+	$btn_Connect.Enabled = $false
+	Append-RichtextboxStatus -Message "Getting SiteCode information"
+	$SiteServer = $txtbox_SiteServer.Text
+	if (!$SiteServer)
+	{
+		Append-RichtextboxStatus -Message "SiteServer is empty, please input SiteServer name" -MessageColor 'red'
+	}
+	else
+	{
+		Get-CMSiteConnection -SiteServer $SiteServer
+	}
+	$btn_Connect.Enabled = $true
+}
+
+$txtbox_SiteCode_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+#region Control Helper Functions
+function Load-DataGridView
+{
+	<#
+	.SYNOPSIS
+		This functions helps you load items into a DataGridView.
+
+	.DESCRIPTION
+		Use this function to dynamically load items into the DataGridView control.
+
+	.PARAMETER  DataGridView
+		The DataGridView control you want to add items to.
+
+	.PARAMETER  Item
+		The object or objects you wish to load into the DataGridView's items collection.
+	
+	.PARAMETER  DataMember
+		Sets the name of the list or table in the data source for which the DataGridView is displaying data.
+
+	#>
+	Param (
+		[ValidateNotNull()]
+		[Parameter(Mandatory=$true)]
+		[System.Windows.Forms.DataGridView]$DataGridView,
+		[ValidateNotNull()]
+		[Parameter(Mandatory=$true)]
+		$Item,
+	    [Parameter(Mandatory=$false)]
+		[string]$DataMember
+	)
+	$DataGridView.SuspendLayout()
+	$DataGridView.DataMember = $DataMember
+	
+	if ($Item -is [System.ComponentModel.IListSource]`
+	-or $Item -is [System.ComponentModel.IBindingList] -or $Item -is [System.ComponentModel.IBindingListView] )
+	{
+		$DataGridView.DataSource = $Item
+	}
+	else
+	{
+		$array = New-Object System.Collections.ArrayList
+		
+		if ($Item -is [System.Collections.IList])
+		{
+			$array.AddRange($Item)
+		}
+		else
+		{	
+			$array.Add($Item)	
+		}
+		$DataGridView.DataSource = $array
+	}
+	
+	$DataGridView.ResumeLayout()
+}
+
+function ConvertTo-DataTable
+{
+	<#
+		.SYNOPSIS
+			Converts objects into a DataTable.
+	
+		.DESCRIPTION
+			Converts objects into a DataTable, which are used for DataBinding.
+	
+		.PARAMETER  InputObject
+			The input to convert into a DataTable.
+	
+		.PARAMETER  Table
+			The DataTable you wish to load the input into.
+	
+		.PARAMETER RetainColumns
+			This switch tells the function to keep the DataTable's existing columns.
+		
+		.PARAMETER FilterWMIProperties
+			This switch removes WMI properties that start with an underline.
+	
+		.EXAMPLE
+			$DataTable = ConvertTo-DataTable -InputObject (Get-Process)
+	#>
+	[OutputType([System.Data.DataTable])]
+	param(
+	[ValidateNotNull()]
+	$InputObject, 
+	[ValidateNotNull()]
+	[System.Data.DataTable]$Table,
+	[switch]$RetainColumns,
+	[switch]$FilterWMIProperties)
+	
+	if($Table -eq $null)
+	{
+		$Table = New-Object System.Data.DataTable
+	}
+
+	if($InputObject-is [System.Data.DataTable])
+	{
+		$Table = $InputObject
+	}
+	else
+	{
+		if(-not $RetainColumns -or $Table.Columns.Count -eq 0)
+		{
+			#Clear out the Table Contents
+			$Table.Clear()
+
+			if($InputObject -eq $null){ return } #Empty Data
+			
+			$object = $null
+			#find the first non null value
+			foreach($item in $InputObject)
+			{
+				if($item -ne $null)
+				{
+					$object = $item
+					break	
+				}
+			}
+
+			if($object -eq $null) { return } #All null then empty
+			
+			#Get all the properties in order to create the columns
+			foreach ($prop in $object.PSObject.Get_Properties())
+			{
+				if(-not $FilterWMIProperties -or -not $prop.Name.StartsWith('__'))#filter out WMI properties
+				{
+					#Get the type from the Definition string
+					$type = $null
+					
+					if($prop.Value -ne $null)
+					{
+						try{ $type = $prop.Value.GetType() } catch {}
+					}
+
+					if($type -ne $null) # -and [System.Type]::GetTypeCode($type) -ne 'Object')
+					{
+		      			[void]$table.Columns.Add($prop.Name, $type) 
+					}
+					else #Type info not found
+					{ 
+						[void]$table.Columns.Add($prop.Name) 	
+					}
+				}
+		    }
+			
+			if($object -is [System.Data.DataRow])
+			{
+				foreach($item in $InputObject)
+				{	
+					$Table.Rows.Add($item)
+				}
+				return  @(,$Table)
+			}
+		}
+		else
+		{
+			$Table.Rows.Clear()	
+		}
+		
+		foreach($item in $InputObject)
+		{		
+			$row = $table.NewRow()
+			
+			if($item)
+			{
+				foreach ($prop in $item.PSObject.Get_Properties())
+				{
+					if($table.Columns.Contains($prop.Name))
+					{
+						$row.Item($prop.Name) = $prop.Value
+					}
+				}
+			}
+			[void]$table.Rows.Add($row)
+		}
+	}
+
+	return @(,$Table)	
+}
+#endregion
+
+$checkbox0_CheckedChanged={
+	#TODO: Place custom script here
+	#progressbar
+	$Time = Measure-Command {
+		$SelectedRowCount = 0
+		$AllRowCount = 0
+		for ($RowIndex = 0; $RowIndex -lt $datagridview1.RowCount; $RowIndex++)
+		{
+			$AllRowCount++
+		}
+		$progressbaroverlay1.Step = 1
+		$progressbaroverlay1.Value = 0
+		$progressbaroverlay1.TextOverlay = ''
+		$progressbaroverlay1.Maximum = $AllRowCount
+		
+		if ($checkbox0.checked -eq $true)
+		{
+			$checkbox0.Enabled = $false
+			
+			Append-RichtextboxStatus -Message 'Selecting all collections, please wait...' -Component 'Select'
+			
+			$datagridview1.Columns[3].ReadOnly = $false
+			
+			for ($RowIndex = 0; $RowIndex -lt $datagridview1.RowCount; $RowIndex++)
+			{
+				#progressbar
+				$SelectedRowCount++
+				$progressbaroverlay1.TextOverlay = "Selecting all collections $($SelectedRowCount) / $($AllRowCount)"
+				[System.Windows.Forms.Application]::DoEvents()
+				$progressbaroverlay1.PerformStep()
+				$selectedname = $($datagridview1.Rows[$RowIndex].cells[1].value)
+				if (($selectedname -eq 'All Systems') -or
+				($selectedname -eq 'All Unknown Computers') -or
+				($selectedname -eq 'All Mobile Devices') -or
+				($selectedname -eq 'All Desktop and Server Clients'))
+				{
+					Append-RichtextboxStatus -Message "$selectedname - is a read only Collection" -Component 'Select'
+				}
+				else
+				{
+					$datagridview1.Rows[$RowIndex].cells[0].value = $true					
+					Append-RichtextboxStatus -Message "Selected $selectedname" -Component 'Select'
+				}				
+			}
+			
+			Append-RichtextboxStatus -Message "Done" -Component 'Select'
+			$progressbaroverlay1.TextOverlay = 'All selected!'
+			
+			$checkbox0.Enabled = $true
+		}
+		
+		if ($checkbox0.checked -eq $false)
+		{
+			Append-RichtextboxStatus -Message "De-selecting all collections please wait..." -Component 'De-Select'
+			$checkbox0.Enabled = $false
+			
+			$datagridview1.Columns[3].ReadOnly = $true
+			
+			for ($RowIndex = 0; $RowIndex -lt $datagridview1.RowCount; $RowIndex++)
+			{
+				#progressbar
+				$SelectedRowCount++
+				$progressbaroverlay1.TextOverlay = "Deselecting all collections $($SelectedRowCount) / $($AllRowCount)"
+				[System.Windows.Forms.Application]::DoEvents()
+				$progressbaroverlay1.PerformStep()
+				
+				
+				$datagridview1.Rows[$RowIndex].cells[0].value = $false
+				$selectedname = $($datagridview1.Rows[$RowIndex].cells[1].value)
+				Append-RichtextboxStatus -Message "Deselected $selectedname" -Component 'De-Select'
+			}
+			Append-RichtextboxStatus -Message "Done" -Component 'De-Select'
+			$progressbaroverlay1.TextOverlay = 'All de-selected!'
+			
+			$checkbox0.Enabled = $true
+		}
+	}
+	Append-RichtextboxStatus -Component 'Time' -Message $Time.TotalSeconds
+}
+
+$Select_CheckedChanged={
+	#TODO: Place custom script here
+}
+
+Function Set-DGVStatus
+{
+	for ($i = 0; $i -lt $datagridview1.RowCount; $i++)
+	{
+		if ($datagridview1.Rows[$i].Cells[0].Value -eq $true)
+		{
+			$datagridview1.Rows[$i].DefaultCellStyle.BackColor = 'LightYellow'
+		}
+		else
+		{
+			#do nothing
+		}
+	}
+}
+
+function Set-RKCollection
+{
+    <#
+    .SYNOPSIS
+    Short Description
+    .DESCRIPTION
+    Detailed Description
+    .EXAMPLE
+    Set-RKCollection
+    .NOTES
+    The following refresh types exist for Configuration Manager collections  
+    6 = Incremental and Scheduled Updates  
+    4 = Incremental Updates Only  
+    2 = Scheduled Updates only  
+    1 = Manual Update only 
+    .EXAMPLE
+    Set-RKCollection
+  #>
+	[CmdletBinding()]
+	param
+	(
+		[Parameter(Mandatory = $true, Position = 0)]
+		[System.String]$SiteServer,
+		[Parameter(Mandatory = $true, Position = 1)]
+		[System.String]$SiteCode,
+		[Parameter(Mandatory = $true, Position = 2)]
+		[System.String]$Name,
+		[Parameter(Mandatory = $true, Position = 3)]
+		[int][ValidateSet(1, 2, 4, 6)]
+		$RefreshType
+	)
+	switch ($RefreshType)
+	{
+		"1" {
+			try
+			{
+				$CollectionQuery = Get-WmiObject -ComputerName $SiteServer -Namespace "Root\SMS\Site_$SiteCode" -Class SMS_Collection -Filter "Name='$Name'"
+				$CollectionQuery = [wmi]$CollectionQuery.__PATH
+				$CollectionQuery.RefreshType = 1
+				$CollectionQuery.Put()
+				Append-RichtextboxStatus -Component 'Configure Collection' -Message "$Name - Saved"
+			}
+			catch
+			{
+				Append-RichtextboxStatus -Component 'Configure Collection' -Message "Failed to update collection $Name"
+			}
+		}
+		"2" {
+			try
+			{
+				if ($RKScheduleString)
+				{
+					$RKSchedule = Convert-CMSchedule -ScheduleString $RKScheduleString
+					$RKSchedconverted = $RKSchedule.psbase.managedobject
+					$CollectionQuery = Get-WmiObject -ComputerName $SiteServer -Namespace "Root\SMS\Site_$SiteCode" -Class SMS_Collection -Filter "Name='$Name'"
+					$CollectionQuery = [wmi]$CollectionQuery.__PATH
+					$CollectionQuery.RefreshType = 2
+					$CollectionQuery.RefreshSchedule = $RKSchedconverted
+					$CollectionQuery.Put()
+					Append-RichtextboxStatus -Component 'Configure Collection' -Message "$Name - Saved"
+				}
+				elseif (!($RKScheduleString))
+				{
+					$CollectionQuery = Get-WmiObject -ComputerName $SiteServer -Namespace "Root\SMS\Site_$SiteCode" -Class SMS_Collection -Filter "Name='$Name'"
+					$CollectionQuery = [wmi]$CollectionQuery.__PATH
+					$CollectionQuery.RefreshType = 2
+					$CollectionQuery.Put()
+					Append-RichtextboxStatus -Component 'Configure Collection' -Message "$Name - Saved"
+				}
+			}
+			catch
+			{
+				Append-RichtextboxStatus -Component 'Configure Collection' -Message "Failed to update collection $Name" -MessageColor 'Red'
+			}
+		}
+		"4" {
+			try
+			{
+				$CollectionQuery = Get-WmiObject -ComputerName $SiteServer -Namespace "Root\SMS\Site_$SiteCode" -Class SMS_Collection -Filter "Name='$Name'"
+				$CollectionQuery = [wmi]$CollectionQuery.__PATH
+				$CollectionQuery.RefreshType = 4
+				$CollectionQuery.Put()
+				Append-RichtextboxStatus -Component 'Configure Collection' -Message "$Name - Saved"
+				
+			}
+			catch
+			{
+				Append-RichtextboxStatus -Component 'Configure Collection' -Message "Failed to update collection $Name" -MessageColor 'Red'
+			}
+		}
+		"6" {
+			try
+			{
+				if ($RKScheduleString)
+				{
+					$RKSchedule = Convert-CMSchedule -ScheduleString $RKScheduleString
+					$RKSchedconverted = $RKSchedule.psbase.managedobject
+					$CollectionQuery = Get-WmiObject -ComputerName $SiteServer -Namespace "Root\SMS\Site_$SiteCode" -Class SMS_Collection -Filter "Name='$Name'"
+					$CollectionQuery = [wmi]$CollectionQuery.__PATH
+					$CollectionQuery.RefreshType = 6
+					$CollectionQuery.RefreshSchedule = $RKSchedconverted
+					$CollectionQuery.Put()
+					Append-RichtextboxStatus -Component 'Configure Collection' -Message "$Name - Saved"
+				}
+				elseif (!($RKScheduleString))
+				{
+					$CollectionQuery = Get-WmiObject -ComputerName $SiteServer -Namespace "Root\SMS\Site_$SiteCode" -Class SMS_Collection -Filter "Name='$Name'"
+					$CollectionQuery = [wmi]$CollectionQuery.__PATH
+					$CollectionQuery.RefreshType = 6
+					$CollectionQuery.Put()
+					Append-RichtextboxStatus -Component 'Configure Collection' -Message "$Name - Saved"
+				}		
+			}
+			catch
+			{
+				Append-RichtextboxStatus -Component 'Configure Collection' -Message "Failed to update collection $Name" -MessageColor 'Red'
+			}
+		}
+	}
+}
+
+$contextmenu_Opening=[System.ComponentModel.CancelEventHandler]{
+#Event Argument: $_ = [System.ComponentModel.CancelEventArgs]
+	#TODO: Place custom script here
+	
+}
+
+$deselectToolStripMenuItem_Click={
+	#TODO: Place custom script here
+	Append-RichtextboxStatus -Component 'Right Click' -Message "Deselecting all highlighted rows"
+	#Progressbar
+	$progressbaroverlay1.Step = 1
+	$progressbaroverlay1.Value = 0
+	$progressbaroverlay1.Maximum = $datagridview1.SelectedRows.Count
+	foreach ($item in $datagridview1.SelectedRows)
+	{
+		$RowCheckedState = $item.Cells[0].value
+		$RowCollectionName = $Item.Cells[1].Value
+		if ($RowCheckedState -eq $false)
+		{
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName already taken out of update mode."
+		}
+		elseif ($RowCheckedState -eq $true)
+		{
+			$item.Cells[0].Value = $false
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName taken out of update mode"
+		}
+		else
+		{
+			Append-RichtextboxStatus -Component 'Right Click' -Message "There were problems with $RowCollectionName"
+		}
+		$progressbaroverlay1.PerformStep()
+		$progressbaroverlay1.TextOverlay = "Disabling Collection For Update $($progressbaroverlay1.Value) / $($progressbaroverlay1.Maximum)"
+		$progressbaroverlay1.Update()
+	}
+}
+
+$removeIncrementalUpdatesToolStripMenuItem_Click = {
+	#TODO: Place custom script here
+	Append-RichtextboxStatus -Component 'Right Click' -Message "Deselecting all highlighted rows"
+	#Progressbar
+	$progressbaroverlay1.Step = 1
+	$progressbaroverlay1.Value = 0
+	$progressbaroverlay1.Maximum = $datagridview1.SelectedRows.Count
+	foreach ($item in $datagridview1.SelectedRows)
+	{
+		$RowCollectionName = $Item.Cells[1].Value
+		$RowCheckedState = $item.Cells[0].value
+		if ($RowCheckedState -eq $true)
+		{
+			$IncCheckedState = $item.Cells[3].value			
+			if ($IncCheckedState -eq $false)
+			{
+				Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName incremental update already disabled."
+			}
+			elseif ($IncCheckedState -eq $true)
+			{
+				$item.Cells[3].Value = $false
+				Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName incremental update disabled"
+			}
+			else
+			{
+				Append-RichtextboxStatus -Component 'Right Click' -Message "There were problems with $RowCollectionName" -MessageColor 'Red'
+			}
+		}
+		elseif ($RowCheckedState -eq $false)
+		{
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName not in update mode, unable to change incremental state" -MessageColor 'Red'
+		}
+		else
+		{
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName There was a problem reading the selected state." -MessageColor 'Red'
+		}
+		$progressbaroverlay1.PerformStep()
+		$progressbaroverlay1.TextOverlay = "Removing Incremental Update $($progressbaroverlay1.Value) / $($progressbaroverlay1.Maximum)"
+		$progressbaroverlay1.Update()
+	}
+}
+
+Function set-NewCMSchedule {
+	#Progressbar
+	$progressbaroverlay1.Step = 1
+	$progressbaroverlay1.Value = 0
+	$progressbaroverlay1.Maximum = $datagridview1.SelectedRows.Count
+	foreach ($item in $datagridview1.SelectedRows)
+	{
+		$RowCollectionName = $Item.Cells[1].Value
+		$RowCheckedState = $item.Cells[0].value
+		if ($RowCheckedState -eq $true)
+		{
+			$item.Cells[4].Value = $true
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName scheduled update enabled"
+			$item.Cells[5].Value = $script:Token.RefreshDate
+			$item.Cells[6].Value = $script:Token.StartTime
+			$item.Cells[7].value = Convert-CMSchedule -ScheduleToken $script:CFSchedule
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName schedule updated"
+		}
+		elseif ($RowCheckedState -eq $false)
+		{
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName not in update mode unable to change shedule state" -MessageColor 'Red'
+		}
+		else
+		{
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName There was a problem reading the selected state." -MessageColor 'Red'
+		}
+		$progressbaroverlay1.PerformStep()
+		$progressbaroverlay1.TextOverlay = "Updating Schedule On Collection $($progressbaroverlay1.Value) / $($progressbaroverlay1.Maximum)"
+		$progressbaroverlay1.Update()
+	}
+}
+
+$addIncrementalUpdatesToolStripMenuItem_Click = {
+	#TODO: Place custom script here
+	Append-RichtextboxStatus -Component 'Right Click' -Message "Adding incremental updates to all highlighted rows that are selected"
+	#Progressbar
+	$progressbaroverlay1.Step = 1
+	$progressbaroverlay1.Value = 0
+	$progressbaroverlay1.Maximum = $datagridview1.SelectedRows.Count
+	foreach ($item in $datagridview1.SelectedRows)
+	{
+		$RowCollectionName = $Item.Cells[1].Value
+		$RowCheckedState = $item.Cells[0].value
+		if ($RowCheckedState -eq $true)
+		{
+			$IncCheckedState = $item.Cells[3].value
+			if ($IncCheckedState -eq $true)
+			{
+				Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName incremental update already enabled."
+			}
+			elseif ($IncCheckedState -eq $false)
+			{
+				$item.Cells[3].Value = $true
+				Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName incremental update enabled"
+			}
+			else
+			{
+				Append-RichtextboxStatus -Component 'Right Click' -Message "There were problems with $RowCollectionName" -MessageColor 'Red'
+			}
+		}
+		elseif ($RowCheckedState -eq $false)
+		{
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName not in update mode, unable to change incremental state" -MessageColor 'Red'
+		}
+		else
+		{
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName There was a problem reading the selected state." -MessageColor 'Red'
+		}
+		$progressbaroverlay1.PerformStep()
+		$progressbaroverlay1.TextOverlay = "Adding Incremental Update $($progressbaroverlay1.Value) / $($progressbaroverlay1.Maximum)"
+		$progressbaroverlay1.Update()
+	}
+}
+
+$selectToolStripMenuItem_Click = {
+	#TODO: Place custom script here
+	Append-RichtextboxStatus -Component 'Right Click' -Message "selecting all highlighted rows"
+	#Progressbar
+	$progressbaroverlay1.Step = 1
+	$progressbaroverlay1.Value = 0
+	$progressbaroverlay1.Maximum = $datagridview1.SelectedRows.Count
+	foreach ($item in $datagridview1.SelectedRows)
+	{
+		$RowCheckedState = $item.Cells[0].value
+		$RowCollectionName = $Item.Cells[1].Value		
+		if ($RowCheckedState -eq $true)
+		{
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName already in update mode."
+		}
+		elseif (($RowCollectionName -eq 'All Systems') -or
+			($RowCollectionName -eq 'All Unknown Computers') -or
+			($RowCollectionName -eq 'All Mobile Devices') -or
+			($RowCollectionName -eq 'All Desktop and Server Clients') -or
+			($RowCollectionName -eq 'All Users') -or
+			($RowCollectionName -eq 'All User Groups') -or
+			($RowCollectionName -eq 'All Users and User Groups')) {
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName is a readonly Collection"
+		}
+		elseif ($RowCheckedState -eq $false)
+		{
+			$item.Cells[0].Value = $true
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName placed in update mode"
+		}
+		else
+		{
+			Append-RichtextboxStatus -Component 'Right Click' -Message "There were problems with $RowCollectionName" -MessageColor 'Red'
+		}
+		$progressbaroverlay1.PerformStep()
+		$progressbaroverlay1.TextOverlay = "Enabling Collection For Update $($progressbaroverlay1.Value) / $($progressbaroverlay1.Maximum)"
+		$progressbaroverlay1.Update()
+	}
+}
+
+$btn_filter_Click={
+	#TODO: Place custom script here
+	$datagridview1.DataSource.DefaultView.RowFilter = "Collection LIKE '*$($txtbox_Filter.Text)*'"
+	Set-DGVStatus
+}
+
+$btn_nofilter_Click={
+	#TODO: Place custom script here
+	$txtbox_Filter.Text = $null
+	$datagridview1.DataSource.DefaultView.RowFilter = "Collection LIKE '*$($txtbox_Filter.Text)*'"
+	Set-DGVStatus
+}
+
+$datagridview1_Sorted={
+	#TODO: Place custom script here
+	Set-DGVStatus
+}
+
+$SelectAllNodes_Click={
+	#TODO: Place custom script here
+	if ($Treeview.SelectedNode.Checked -eq $true) {
+		Append-RichtextboxStatus -Component 'Tree Control' -Message "$($Treeview.SelectedNode.Text) already enabled."
+	} elseif ($Treeview.SelectedNode.Checked -eq $false) {
+		$Treeview.SelectedNode.Checked = $true
+		Append-RichtextboxStatus -Component 'Tree Control' -Message "$($Treeview.SelectedNode.Text) enabled."
+	}
+	Enable-ChildNode($Treeview.SelectedNode)
+}
+
+$DeSelectAllNodes_Click={
+	#TODO: Place custom script here
+	if ($Treeview.SelectedNode.Checked -eq $false)
+	{
+		Append-RichtextboxStatus -Component 'Tree Control' -Message "$($Treeview.SelectedNode.Text) already disabled."
+	}
+	elseif ($Treeview.SelectedNode.Checked -eq $true)
+	{
+		$Treeview.SelectedNode.Checked = $false
+		Append-RichtextboxStatus -Component 'Tree Control' -Message "$($Treeview.SelectedNode.Text) disabled."
+	}
+	
+	Disable-ChildNode($Treeview.SelectedNode)
+}
+
+$contextmenutree_Opening=[System.ComponentModel.CancelEventHandler]{
+#Event Argument: $_ = [System.ComponentModel.CancelEventArgs]
+	#TODO: Place custom script here
+	if ($Treeview.SelectedNode)
+	{
+		$SelectAllNodes.Enabled = $true
+		$DeSelectAllNodes.Enabled = $true
+	}
+	elseif (!($Treeview.SelectedNode))
+	{
+		$SelectAllNodes.Enabled = $false
+		$DeSelectAllNodes.Enabled = $false
+		Append-RichtextboxStatus -Component 'Tree Control' -MessageColor 'Red' -Message 'You need to highlight a folder in the tree on the left to be able to use the context menu'
+	}
+	else
+	{
+		Append-RichtextboxStatus -Component 'Tree Control' -Message "There were problems looking up highlighted status of a node during right click" -MessageColor 'Red'
+	}
+}
+
+$treeview_AfterSelect=[System.Windows.Forms.TreeViewEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.TreeViewEventArgs]
+	#TODO: Place custom script here
+}
+
+$SetRefreshScheduleToolStripMenuItem_Click={
+	#TODO: Place custom script here
+	if ((Call-ChildForm_psf) -eq 'OK')
+	{
+		set-NewCMSchedule
+	}
+}
+
+$btn_start_Click={
+	#TODO: Place custom script here
+	# Determine selected row count
+	$script:CancelLoop = $false
+	$btn_stop.Enabled = $true
+	$datagridview1.ClearSelection()
+	$btn_start.Enabled = $false
+	$SelectedRowCount = 0
+	$AllRowCount = 0
+	
+	for ($RowIndex = 0; $RowIndex -lt $datagridview1.RowCount; $RowIndex++)
+	{
+		if ($datagridview1.Rows[$RowIndex].Cells[0].Value -eq $true)
+		{
+			$AllRowCount++
+		}
+	}
+	
+	#Progressbar
+	$progressbaroverlay1.Step = 1
+	$progressbaroverlay1.Value = 0
+	$progressbaroverlay1.Maximum = $AllRowCount
+	
+	# Enumerate through selected rows in DataGridView
+	for ($RowIndex = 0; $RowIndex -lt $datagridview1.RowCount; $RowIndex++)
+	{
+		if ($script:CancelLoop -eq $true)
+		{
+			#Clear the progress bar
+			$progressbaroverlay1.Value = 0
+			$progressbaroverlay1.TextOverlay = "Stopped"
+			#Exit the loop
+			$btn_start.Enabled = $true
+			return
+		}
+		
+		$RowCheckedState = $datagridview1.Rows[$RowIndex].Cells[0].Value
+		$RowCollectionName = $datagridview1.Rows[$RowIndex].Cells[1].Value
+		$IncCheckedState = $datagridview1.Rows[$RowIndex].Cells[3].Value
+		$SchedCheckedState = $datagridview1.Rows[$RowIndex].Cells[4].Value
+		if ($datagridview1.Rows[$RowIndex].Cells[7].Value -eq '0')
+		{
+			$RKScheduleString = $null
+		}
+		else
+		{
+			$RKScheduleString = $datagridview1.Rows[$RowIndex].Cells[7].Value
+		}
+		
+		if ($RowCheckedState -eq $true)
+		{
+			if ($SchedCheckedState -eq $false -and $IncCheckedState -eq $false)
+			{
+				# Manual
+				Set-RKCollection -SiteServer $SiteServer -SiteCode $SiteCode -Name $RowCollectionName -RefreshType 1
+			}
+			elseif ($SchedCheckedState -eq $true -and $IncCheckedState -eq $false)
+			{
+				# Scheduled Only
+				Set-RKCollection -SiteServer $SiteServer -SiteCode $SiteCode -Name $RowCollectionName -RefreshType 2
+			}
+			elseif ($SchedCheckedState -eq $false -and $IncCheckedState -eq $true)
+			{
+				# Incremental Only
+				Set-RKCollection -SiteServer $SiteServer -SiteCode $SiteCode -Name $RowCollectionName -RefreshType 4
+			}
+			elseif ($SchedCheckedState -eq $true -and $IncCheckedState -eq $true)
+			{
+				# Scheduled and Incremental
+				Set-RKCollection -SiteServer $SiteServer -SiteCode $SiteCode -Name $RowCollectionName -RefreshType 6
+			}
+			$SelectedRowCount++
+			$progressbaroverlay1.PerformStep()
+			$progressbaroverlay1.TextOverlay = "Saving settings $($SelectedRowCount) / $($AllRowCount)"
+			$datagridview1.Rows[$RowIndex].Cells[0].Value = $false
+			$progressbaroverlay1.Update()
+			[System.Windows.Forms.Application]::DoEvents()
+		}
+	}
+	
+	$progressbaroverlay1.TextOverlay = 'All Collections have been updated'
+	$btn_start.Enabled = $true
+}
+
+
+$datagridview1_CellPainting=[System.Windows.Forms.DataGridViewCellPaintingEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.DataGridViewCellPaintingEventArgs]
+	#TODO: Place custom script here
+	if ($_.RowIndex -ge 0 -and $_.ColumnIndex -ge 0)
+	{
+		if ($_.ColumnIndex -eq 0)
+		{
+			$RKCellV = $this.Rows[$_.RowIndex].Cells[1].Value
+			
+			if (($RKCellV -eq 'All Systems') -or
+			($RKCellV -eq 'All Unknown Computers') -or
+			($RKCellV -eq 'All Mobile Devices') -or
+			($RKCellV -eq 'All Desktop and Server Clients') -or
+			($RKCellV -eq 'All Users') -or
+			($RKCellV -eq 'All User Groups') -or
+			($RKCellV -eq 'All Users and User Groups'))
+			{
+				$this.Rows[$_.RowIndex].Cells | % { $_.Style.BackColor = 'LightGray' }
+				$this.Rows[$_.RowIndex].Cells | % { $_.ReadOnly = $true }
+			}
+			elseif ($this.Rows[$_.RowIndex].Cells[0].Value)
+			{
+				$this.Rows[$_.RowIndex].Cells | %{ $_.Style.BackColor = 'LightYellow' }
+				$this.Rows[$_.RowIndex].cells[3].readonly = $false
+				$this.Rows[$_.RowIndex].cells[4].readonly = $false
+				
+			}
+			else
+			{
+				$this.Rows[$_.RowIndex].Cells | ForEach-Object{ $_.Style.BackColor = 'white' }
+				$this.Rows[$_.RowIndex].cells[3].readonly = $true
+				$this.Rows[$_.RowIndex].cells[4].readonly = $true
+			}
+		}
+	}
+}
+
+
+
+
+$enablescheduleToolStripMenuItem_Click={
+	#TODO: Place custom script here
+	Append-RichtextboxStatus -Component 'Right Click' -Message "Enabling scheduled updates to all highlighted rows that are selected"
+	#Progressbar
+	$progressbaroverlay1.Step = 1
+	$progressbaroverlay1.Value = 0
+	$progressbaroverlay1.Maximum = $datagridview1.SelectedRows.Count
+	foreach ($item in $datagridview1.SelectedRows)
+	{
+		$RowCollectionName = $Item.Cells[1].Value
+		$RowCheckedState = $item.Cells[0].value
+		if ($RowCheckedState -eq $true)
+		{
+			$SchedCheckedState = $item.Cells[4].value
+			if ($SchedCheckedState -eq $true)
+			{
+				Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName scheduled update already enabled"
+			}
+			elseif ($SchedCheckedState -eq $false)
+			{
+				$item.Cells[4].Value = $true
+				Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName scheduled update enabled"
+			}
+			else
+			{
+				Append-RichtextboxStatus -Component 'Right Click' -Message "There were problems with $RowCollectionName" -MessageColor 'Red'
+			}
+		}
+		elseif ($RowCheckedState -eq $false)
+		{
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName not in update mode, unable to change schedule state" -MessageColor 'Red'
+		}
+		else
+		{
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName There was a problem reading the enabled state" -MessageColor 'Red'
+		}
+		$progressbaroverlay1.PerformStep()
+		$progressbaroverlay1.TextOverlay = "Enabling Scheduled Updates $($progressbaroverlay1.Value) / $($progressbaroverlay1.Maximum)"
+		$progressbaroverlay1.Update()
+	}
+}
+
+$disablescheduleToolStripMenuItem_Click={
+	#TODO: Place custom script here
+	Append-RichtextboxStatus -Component 'Right Click' -Message "Disabling scheduled updates to all highlighted rows that are selected"
+	#Progressbar
+	$progressbaroverlay1.Step = 1
+	$progressbaroverlay1.Value = 0
+	$progressbaroverlay1.Maximum = $datagridview1.SelectedRows.Count
+	foreach ($item in $datagridview1.SelectedRows)
+	{
+		$RowCollectionName = $Item.Cells[1].Value
+		$RowCheckedState = $item.Cells[0].value
+		if ($RowCheckedState -eq $true)
+		{
+			$SchedCheckedState = $item.Cells[4].value
+			if ($SchedCheckedState -eq $false)
+			{
+				Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName scheduled update already disabled"
+			}
+			elseif ($SchedCheckedState -eq $true)
+			{
+				$item.Cells[4].Value = $false
+				Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName scheduled update disabled"
+			}
+			else
+			{
+				Append-RichtextboxStatus -Component 'Right Click' -Message "There were problems with $RowCollectionName" -MessageColor 'Red'
+			}
+		}
+		elseif ($RowCheckedState -eq $false)
+		{
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName not in update mode, unable to change schedule state" -MessageColor 'Red'
+		}
+		else
+		{
+			Append-RichtextboxStatus -Component 'Right Click' -Message "$RowCollectionName There was a problem reading the selected state" -MessageColor 'Red'
+		}
+		$progressbaroverlay1.PerformStep()
+		$progressbaroverlay1.TextOverlay = "Disabling Scheduled Updates $($progressbaroverlay1.Value) / $($progressbaroverlay1.Maximum)"
+		$progressbaroverlay1.Update()
+	}
+}
+
+$btn_stop_Click={
+	#TODO: Place custom script here
+	Append-RichtextboxStatus -Message 'Stopped'
+	$script:CancelLoop = $true
+	$btn_stop.Enabled = $false
+	
+}
+
+$datagridview1_CurrentCellDirtyStateChanged={
+	#TODO: Place custom script here
+	if ($this.IsCurrentCellDirty)
+	{
+		$this.CommitEdit([System.Windows.Forms.DataGridViewDataErrorContexts]::Commit)
+	}
+}
+
+$radiodbtn_device_CheckedChanged={
+	#TODO: Place custom script here
+	if ($this.checked -eq $true)
+	{
+		$script:RKCMCollectionType = 'Device'
+		$TreeView.Nodes.Clear()
+		$treeview.CheckBoxes = $true
+	}
+}
+
+$radiodbtn_user_CheckedChanged={
+	#TODO: Place custom script here
+	if ($this.checked -eq $true)
+	{
+		$script:RKCMCollectionType = 'User'
+		$TreeView.Nodes.Clear()
+		$treeview.CheckBoxes = $true
+	}
+}
+
+$btn_search_Click={
+	#TODO: Place custom script here
+	Get-CMFolderStructure -SiteCode $SiteCode -SiteServer $SiteServer -RKCMCollectionType $script:RKCMCollectionType
+}
+
+$datagridview1_DataBindingComplete=[System.Windows.Forms.DataGridViewBindingCompleteEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.DataGridViewBindingCompleteEventArgs]
+	#TODO: Place custom script here
+	$this.Columns[7].Visible = $false
+}
+]]></Code>
+  <Mode>0</Mode>
+  <Assemblies>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+  </Assemblies>
+</File>
